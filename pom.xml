@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.gridsum.hbase</groupId>
+  <artifactId>interfacetest</artifactId>
+  <packaging>jar</packaging>
+  <version>1.0</version>
+
+  <properties>
+    <!-- Compile Configure -->
+    <maven.compiler.source>1.7</maven.compiler.source>
+    <maven.compiler.target>1.7</maven.compiler.target>
+    <maven.compiler.encoding>UTF-8</maven.compiler.encoding>
+    <maven.deploy.version>2.8.2</maven.deploy.version>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+    <!-- Build Configure -->
+    <maven.build.timestamp.format>yyyyMMddHHmmss</maven.build.timestamp.format>
+    <buildTimestamp>${maven.build.timestamp}</buildTimestamp>
+    <buildVersion>${project.version}</buildVersion>
+    <buildName>${project.name}</buildName>
+    <scope.provider>provided</scope.provider>
+    <skip.maven.deploy>false</skip.maven.deploy>
+
+    <!-- Dependency Lib-->
+    <scala.version>2.10.4</scala.version>
+    <guava.version>18.0</guava.version>
+    <weblog-parser-core.version>2.1.0</weblog-parser-core.version>
+    <weblog-preparser.version>1.4.5</weblog-preparser.version>
+    <cdh.version>cdh5.7.2</cdh.version>
+    <alibab.druid.version>1.0.20</alibab.druid.version>
+    <spark.version>1.6.0-${cdh.version}</spark.version>
+    <avro.version>1.7.6-${cdh.version}</avro.version>
+    <akka.version>2.3.15</akka.version>
+    <memsql.version>1.3.2</memsql.version>
+    <mysql.version>5.1.34</mysql.version>
+    <joda.version>2.3</joda.version>
+    <kryo.version>2.21</kryo.version>
+    <slf4j.version>1.7.12</slf4j.version>
+    <spray.version>1.3.3</spray.version>
+    <spray-json.version>1.3.2</spray-json.version>
+    <spray-client.version>1.3.1</spray-client.version>
+    <config.version>1.2.1</config.version>
+    <scalaj-http.version>2.3.0</scalaj-http.version>
+    <quartz.version>2.2.3</quartz.version>
+    <scalikejdbc.version>2.4.1</scalikejdbc.version>
+    <logback.version>1.1.2</logback.version>
+    <junit.version>4.11</junit.version>
+    <protobuf-java.version>2.4.1-shaded</protobuf-java.version>
+    <jsqlparser.version>0.9.5-gridsum</jsqlparser.version>
+    <hazelcast.version>3.6.2</hazelcast.version>
+    <postgresql.version>9.4.1208.jre7</postgresql.version>
+    <hadoop.version>2.6.0-cdh5.5.2</hadoop.version>
+    <okhttp.version>2.7.5</okhttp.version>
+    <druid.version>0.8.2</druid.version>
+    <spark-pg-connector.version>1.1</spark-pg-connector.version>
+    <membersOnlySuites>com.gridsum.liveinsight.queryengine.unittests</membersOnlySuites>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.scala-lang</groupId>
+      <artifactId>scala-library</artifactId>
+      <version>${scala.version}</version>
+    </dependency>
+    <!--<dependency>
+      <groupId>org.apache.hbase</groupId>
+      <artifactId>hbase</artifactId>
+      <version>1.2.0-cdh5.7.2</version>
+    </dependency>
+    -->
+
+    <dependency>
+      <groupId>org.apache.hbase</groupId>
+      <artifactId>hbase-client</artifactId>
+      <version>1.2.0-cdh5.7.2</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.hbase</groupId>
+      <artifactId>hbase-thrift</artifactId>
+      <version>1.2.0-cdh5.7.2</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.httpcomponents</groupId>
+      <artifactId>httpclient</artifactId>
+      <version>4.3.2</version>
+    </dependency>
+    <dependency>
+      <groupId>commons-codec</groupId>
+      <artifactId>commons-codec</artifactId>
+      <version>1.10</version>
+    </dependency>
+  </dependencies>
+
+  <build>
+    <plugins>
+
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.1</version>
+        <configuration>
+          <source>${maven.compiler.source}</source>
+          <target>${maven.compiler.target}</target>
+          <encoding>${maven.compiler.encoding}</encoding>
+        </configuration>
+      </plugin>
+
+      <plugin>
+        <groupId>org.scala-tools</groupId>
+        <artifactId>maven-scala-plugin</artifactId>
+        <version>2.15.2</version>
+        <executions>
+          <execution>
+            <id>scala-compile</id>
+            <phase>process-resources</phase>
+            <goals>
+              <goal>compile</goal>
+            </goals>
+          </execution>
+          <!--<execution>-->
+          <!--<id>scala-test-compile</id>-->
+          <!--<phase>process-test-resources</phase>-->
+          <!--<goals>-->
+          <!--<goal>testCompile</goal>-->
+          <!--</goals>-->
+          <!--</execution>-->
+        </executions>
+        <configuration>
+          <scalaVersion>2.10.4</scalaVersion>
+        </configuration>
+      </plugin>
+
+      <plugin>
+        <artifactId>maven-assembly-plugin</artifactId>
+        <version>2.4</version>
+        <configuration>
+          <archive>
+            <manifest>
+              <mainClass>hbase.test.HBaseTest</mainClass>
+            </manifest>
+          </archive>
+          <descriptorRefs>
+            <descriptorRef>jar-with-dependencies</descriptorRef>
+          </descriptorRefs>
+        </configuration>
+        <executions>
+          <execution>
+            <id>make-assembly</id>
+            <phase>package</phase>
+            <goals>
+              <goal>single</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+
+
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-source-plugin</artifactId>
+        <version>2.2.1</version>
+        <executions>
+          <execution>
+            <id>attach-sources</id>
+            <goals>
+              <goal>jar-no-fork</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+
+
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-deploy-plugin</artifactId>
+        <version>${maven.deploy.version}</version>
+        <configuration>
+          <skip>${skip.maven.deploy}</skip>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+
+</project>
