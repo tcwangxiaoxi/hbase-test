@@ -1,0 +1,1129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>防火卷帘门与普通卷帘门的区别是什么？ -【设计本有问必答】</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="mobile-agent" content="format=html5;url=http://m.shejiben.com/ask/wenda/367428.html">
+<link rel="canonical" href="http://ask.shejiben.com/wenda/367428.html" />
+<link href="http://www.shejiben.com/css/global.css?20151120" rel="stylesheet" type="text/css" />
+<!--有问必答-->
+<link href="http://www.shejiben.com/css/start/discussions_style_new.css?20151207" rel="stylesheet" type="text/css" />
+<script src="http://www.shejiben.com/gb_js/jquery.js?201507302113" type="text/javascript"></script>
+<script type="text/javascript">
+    var jq = jQuery.noConflict();
+</script>
+<script src="http://www.shejiben.com/gb_js/common.js?20151111" type="text/javascript"></script>
+<script src="http://www.shejiben.com/gb_js/sjsCenter/myUserCenter.js?20151111" type="text/javascript"></script>
+</head>
+<body>
+
+<div class="sjbNewTop" id="sjbNewTop">
+    <div class="newTopBg">
+        <div class="head1">
+            <div class="hea_top_left">
+                <ul>
+                    <li class="hover"><span class="wb"></span><a href="http://www.shejiben.com/weixin" rel="nofollow" target="_blank">设计本官方微信</a>
+                        <div class="code_weixin">
+                            <span class="sx"></span>
+                            <a href="http://www.shejiben.com/weixin"  rel="nofollow" target="_blank"><img src="http://img.shejiben.com/my/popularize_center/se_code.png?20150520"></a>
+                            <span class="words">扫一扫，加微信<br/>更多金币等你拿！</span>
+                        </div>
+                    </li>
+                    <li class="po" style="margin-left:15px;margin-right:15px;">|</li>
+                    <li class="hover"><a href="http://www.shejiben.com/app" rel="nofollow" target="_blank"><span class="sj"></span>设计本手机版</a></li>
+                </ul>
+            </div>
+            <div class="hea_top_right">
+                <ul class="tp_node">
+                    <li style="width:90px;" id="nav_login">
+                        <a href="http://www.shejiben.com/account/login.php" rel="nofollow" >登录</a><a href="http://www.shejiben.com/account/register.php" style="margin-left:15px;" rel="nofollow" >注册</a>
+                        <span style="display:none;"><span>nini</span><span>消息</span></span>
+                    </li>
+                    <li class="po">|</li>
+                    <!-- 申请定制设计 -->
+                    <li class="dzsj">
+                        <a href="http://www.shejiben.com/zb/?from=topbar" rel="nofollow" target="_blank">申请定制设计</a>
+                    </li>
+                    <li class="po">|</li>
+                    <!--客服服务 -->
+                    <li class="cur"  style="width:80px;">
+                        <a href="javascript:;">客服服务<span class="jt"></span></a>
+                        <div class="kf_server" style="display:none;">
+                            <ul>
+                                <li><a rel="nofollow" href="javascript:void(0);" class="kflive800" lim_company="235802" lim_skill="3012">在线客服</a></li>
+                                <li><a rel="nofollow" href="http://www.shejiben.com/about/feedback.php" target="_blank">意见反馈</a></li>
+                                <li><a rel="nofollow" href="http://www.shejiben.com/about/helpcenter.html">帮助中心</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="po">|</li>
+                    <!--设计师中心 -->
+                    <li class="cur" style="width:92px;">
+                        <a href="javascript:;">设计师中心<span class="jt"></span></a>
+                        <div class="sj_center" style="display:none;">
+                            <ul>
+                                <!-- <li><a href="http://www.shejiben.com/account/register.php">免费入住</a></li> -->
+                                <li><a rel="nofollow" href="http://www.shejiben.com/order_lobby/">接单大厅</a></li>
+                                <li><a rel="nofollow" href="http://www.shejiben.com/renmai/?from=topbar">社交广场</a></li>
+                                <li><a href="http://mx.shejiben.com/?from=topbar" rel="nofollow" >模型下载</a></li>
+                                <li><a rel="nofollow" href="http://www.shejiben.com/about/cooperation.html">推广中心</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="po">|</li>
+                    
+                    <!--网站导航 -->
+                    <li class="cur"  style="width:80px;">
+                        <a href="javascript:;">网站导航<span class="jt"></span></a>
+                        <div class="wz_bann" style="display:none;">
+                            <ul>
+                                <li class="tit">设计案例</li>
+                                <li><a href="http://www.shejiben.com/works/home/">家装案例</a></li>
+                                <li><a href="http://www.shejiben.com/works/public/">工装案例</a></li>
+                                <li><a href="http://www.shejiben.com/images/jiexi/">案例解析</a></li>
+                            </ul>
+                            
+                            <ul>
+                                <li class="tit">装修图库</li>
+                                <li><a href="http://www.shejiben.com/works/">家装图库</a></li>
+                                <li><a href="http://www.shejiben.com/works/gonggongkongjian/">工装图库</a></li>
+                                <li><a href="http://www.shejiben.com/images/">图库专题</a></li>
+                            </ul>
+                            <ul>
+                                <li class="tit">有问必答</li>
+                                <li><a href="http://ask.shejiben.com/">最近回答</a></li>
+                                <li><a href="http://ask.shejiben.com/zuijinhuoyue/">精选提问</a></li>
+                                
+                            </ul>
+                            <ul>
+                                <li class="tit">找设计师</li>
+                                <li><a href="http://www.shejiben.com/zsj/">全国设计师</a></li>
+                                <li><a rel="nofollow" href="http://www.shejiben.com/zsj/?order=3">好评设计师</a></li>
+                                <li><a href="http://www.shejiben.com/zt/">设计师专访</a></li>
+                                <li><a href="http://www.shejiben.com/zb/?from=webnav" rel="nofollow" target="_blank">提设计需求</a><em class="icon icon_hot icon_hot_demand"></em></li>
+                            </ul>
+                            <ul>
+                                <li class="tit">设计相关</li>
+                                <li><a href="http://mall.shejiben.com/">逛商品</a></li>
+                                <li><a href="http://www.shejiben.com/news.html">设计资讯</a></li>
+                                <li><a href="http://www.shejiben.com/space/">空间谈</a></li>
+                            </ul>
+                            <ul>
+                                <li class="tit">设计师中心</li>
+                                <li><a rel="nofollow" href="http://www.shejiben.com/my/">个人中心</a></li>
+                                <li><a rel="nofollow" href="http://www.shejiben.com/order_lobby/">接单大厅</a></li>
+                                <li><a rel="nofollow" href="http://www.shejiben.com/renmai/?from=webnav" rel="nofollow">社交广场</a></li>
+                                <li><a href="http://mx.shejiben.com/?from=webnav" rel="nofollow">模型下载</a></li>
+                                <li><a rel="nofollow" href="http://www.shejiben.com/about/cooperation.html">推广中心</a></li>
+                            </ul>
+                            <ul>
+                                <li class="tit">其他</li>
+                                <li><a rel="nofollow" href="http://www.shejiben.com/app/">设计本App</a><em class="icon icon_hot icon_hot_app"></em></li>
+                                <li><a rel="nofollow" href="http://www.shejiben.com/about/index.html">关于我们</a></li>
+                                <li><a rel="nofollow" href="http://www.shejiben.com/about/contact.html">联系我们</a></li>
+                                <li><a rel="nofollow" href="http://www.shejiben.com/about/helpcenter.html">帮助中心</a></li>
+                                <li><a rel="nofollow" href="http://www.shejiben.com/about/feedback.php" target="_blank">意见反馈</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+            <div id="newMessage" class="newMessage">
+                <div class="closeNewMessage" id="closeNewMessage"></div>
+                <div class="messageItem" id="messageItem"></div>
+                <p class="clear"></p>
+            </div>
+        </div>
+    </div>
+
+    <!--头部搜索 及 主导航-->
+   <div class="index_logo">
+        <a href="http://www.shejiben.com" title="美国知名风险投资机构投资的设计交易平台 - 设计本"><div class="logo"></div></a>
+
+        <div id="search_case">
+        <form id="quicksearch" method="get" action="http://www.shejiben.com/search.php" onsubmit="return checkSearchForm()" target="_blank">
+            <input type="hidden" name="searchType" value="" id="searchType" />
+            <span id="search_span">
+                <div id="search_title">图片</div><em class="arrow"></em>
+                <label id="s_zsj" style="display:none;"></label>
+            </span>
+            <input type="text" value="搜索图片的关键词，如：儿童房" onfocus="this.value=''" onblur="if(this.value=='')this.value='搜索图片的关键词，如：儿童房'" class="key" name="q" id="search_val" />
+            <em class="icon_search"></em>
+            <input type="submit" value="搜索" class="submit"/></form>
+        </div>
+        <span class="or">或</span>
+        <a href="http://www.shejiben.com/zb/?from=nav" rel="nofollow" target="_blank" class="edit">提交设计需求<em></em></a>
+    </div>
+    <!--头部搜索 及 主导航 end-->
+
+</div>
+
+<p class="clear"></p>
+<!--主导航-->
+<div class="wrap wrap_top_menu">
+    <div class="top_menu">
+        <!--整站主导航-->
+         <ul>
+            <li ><a href="http://www.shejiben.com" >首页</a></li>
+            <li ><a href="http://www.shejiben.com/works/home/">设计案例</a>
+                <div class="inner_menu">
+                    <a href="http://www.shejiben.com/works/home/">家装案例</a>
+                    <a href="http://www.shejiben.com/works/public/">工装案例</a>
+                    <a href="http://www.shejiben.com/images/jiexi/">案例解析</a>
+                </div>
+            </li>
+            <li ><a href="http://www.shejiben.com/works/">装修图库</a>
+                <div class="inner_menu">
+                    <a href="http://www.shejiben.com/works/">家装图库</a>
+                    <a href="http://www.shejiben.com/works/gonggongkongjian/">工装图库</a>
+                    <a href="http://www.shejiben.com/images/">图库专题</a>
+                </div>
+            </li>
+            <li class="cur"><a href="http://ask.shejiben.com/">有问必答</a></li>
+            <li ><a href="http://www.shejiben.com/zsj/">找设计师</a></li>
+            <li ><a href="http://mall.shejiben.com/">逛商品</a></li>
+            <li class="last"><a href="javascript:;">设计师专区</a>
+                <div class="inner_menu">
+                   <a href="http://mx.shejiben.com/?from=nav" rel="nofollow">3DMAX模型下载</a>
+                    <a href="http://www.shejiben.com/news.html">设计资讯</a>
+                    <a href="http://www.shejiben.com/zt/">人物专访</a>
+                    <a href="http://www.shejiben.com/renmai/?from=nav" rel="nofollow" >人脉广场</a>
+                    <a href="http://www.shejiben.com/space/">空间谈</a>
+                </div>
+            </li>
+        </ul>
+        <!--整站主导航 End-->
+
+         <!--首页面包屑导航-->
+                <!--首页面包屑导航 end-->
+
+    </div>
+</div>
+<!--主导航-->
+
+<div class="dmato"></div><div class="content_width" id="content">
+<div class="content_width ">
+<script type="text/javascript">
+    //var HeadPhoto = "";
+blogcheck();
+greet_text();
+    var token = "0";
+    var appid = "0";
+    var openid = "0";
+    var token_weibo = "0";
+
+    var searchType = "";
+    var arr=new Array("1","2",'7','3','4','5','6','8','9');
+    var urlArr=new Array({'1':[{0:"http://www.shejiben.com/search.php",1:"q",2:"搜索图片的关键词，如：儿童房",3:"图片　　"}],'2':[{0:"http://www.shejiben.com/search.php",1:"q",2:"搜索灵感图集",3:"找灵感图集"}],'7':[{0:"http://www.shejiben.com/search.php",1:"q",2:"搜索设计师",3:"找设计师"}],'3':[{0:"http://www.shejiben.com/search.php",1:"q",2:"搜索模型",3:"找模型　"}],'4':[{0:"http://www.shejiben.com/search.php",1:"q",2:"搜索材质",3:"找贴图　"}],'5':[{0:"http://www.shejiben.com/search.php",1:"q",2:"搜索材质",3:"找VR材质　"}],'6':[{0:"http://www.shejiben.com/search.php",1:"q",2:"搜索CAD",3:"找CAD　"}],'8':[{0:"http://www.shejiben.com/search.php",1:"q",2:"搜索商品",3:"找商品　"}], '9':[{0:"http://www.shejiben.com/search.php",1:"q",2:"搜索问答",3:"找问答"}]});
+
+    jq(function(){
+        searchFun(searchType);
+        /**重置掉搜索下拉的宽度**/
+        resetSliderWidth()
+        jq("#search_span").hover(function (){
+           resetSliderWidth();
+        })
+
+    });
+
+    function resetSliderWidth(){
+        var searchW = jq('#search_title').width();
+        jq('#s_zsj').css("width",(searchW - 2) + 'px');
+    }   
+</script>
+
+
+
+<!--头部 开始-->
+<style type="text/css">
+html,body,input,textarea
+{
+    background: #fff;
+    padding: 0px;
+    margin: 0px;
+}
+ .content_width{
+  width: 100%;
+}
+/*内页是窄版*/
+.index_logo,.top_menu{width:990px;}
+.index_logo #search_case{margin-left: 100px !important;}
+</style>  
+    <!--头部 结束-->
+    <!--主体 开始-->
+    <div class="dis_mains">
+        <div class="global_line detail_line">
+            <div class="global_pie">
+                <ul class="column_list">
+                    <li>
+                        <a href="http://www.shejiben.com/">设计本</a>
+                        <em class="arrow_gray_right"></em>
+                    </li>
+                    <li class="has_submenu">
+                        <a href="http://ask.shejiben.com/">有问必答</a>
+                        <em class="arrow_gray_right"></em>
+                    </li>
+                    <li class="li_03">防火卷帘门与普通卷帘门的区别是什么？ ...</li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+        </div>
+        <div class="dis_main detail_main">
+       <!--左边 -->
+            <div class="detail_left">          
+                <div class="detail_left_top">
+                    <p class="detail_title"><em></em><i>防火卷帘门与普通卷帘门的区别是什么？</i>
+                    <span class="clear"></span>
+                    </p>
+                    <p class="detail_name">
+                      <a href="http://www.shejiben.com/yz/6386/"  rel="nofollow"   target="_blank"  class="a_name">李佳</a>
+                                            <em class="em_01">|</em>
+                      <em>被浏览28次</em>
+                      <i>5天以前</i>
+                      <span  class="clear"></span>
+                    </p>
+                                        <div class="answer_label">
+      
+                       <div  class="clear"></div>
+                    </div>
+                    
+                    <div class="detail_answers" id="answer_editer">
+                      <p class="d_p01">我来帮他解答</p>
+                      <form action=""  id="comment_form" method="post" enctype="multipart/form-data">
+                      <p class="d_p02">还可以输入<em id="desc_words">9000</em>文字</p>
+                      <div class="lab_input">
+                        <label class="label_txt">请输入你的回答…</label>
+                        <textarea name="ask_answer" cols="" rows="" id="editQuestionTitle"  class="d_input  input_name edit_answer" type="text"></textarea>
+                        <input type="hidden" value="367428" name="id" />
+                        <input type="hidden" value="2" name="type" />
+                        <input type="hidden" value="0" name="answer_uid" />
+                      </div>
+                      <div class="img_input">
+                              <a href="javascript:void(0)" class="add_image"><em></em><i>添加图片</i> <input name="pic_one" id="file" class="upload_img" type="file"></a>
+                              <span id="file_name" class="file_name" ></span>
+                              <a href="javascript:void(0)" class="del_img"><img src="http://img.shejiben.com/icon/del6.gif"  id="del_up_file"></a>
+                      </div>
+                      <input class="d_smbmit answer_editor_smt dis_submit " type="submit" value="提交回答">
+                    </form>
+                      <div  class="clear"></div>
+                    </div>
+
+
+                </div>
+                
+                                <div class="detail_left_mid">
+                    <p class="detail_title"><em></em>3条回答</p>
+                    <ul>
+                                               <li>
+                          <div class="d_img"><a href="http://www.shejiben.com/yz/5085815/"  rel="nofollow"  target="_blank" class="d_img_a"><img width="50" height="50"  rel="nofollow" src="http://www.shejiben.com/img/headphoto/66.jpg"></a></div>
+                          <div class="d_content">
+                              <p class="p_01">
+                                  <a href="http://www.shejiben.com/yz/5085815/"  rel="nofollow"    target="_blank" class="a_name">灯泡大怪兽</a>
+                                  <i>2015-12-04 17:28</i>
+                                  <span  class="clear"></span>
+                              </p>
+                              <p class="p_02">防火卷帘门是现在市场比较常见的卷帘门之一，它与普通卷帘门看似相同实质有很大的区别。<br />
+防火卷帘门和普通卷帘门的区别：<br />
+                 从外观来说普通卷帘和防火卷帘门区别不大，但作为防火产品当然应有其独特之处了。普通卷帘门有手动的和电机控制两种，防火卷帘门主要是电机控制，区别在于一个是普通的一个是可防火电机。<br />
+                 普通卷帘帘片是空心压弯的，防火卷帘门的帘片内部填充了阻燃隔热的防火材料，普通卷帘是单独的物理或电机开关，而防火卷帘门是可连接在整个建筑物的消防控制中心的。<br />
+希望对您有帮助。</p>
+                                                            <p class="p_03">
+                                 
+                             
+                              <a href="javascript:void(0)" onclick="praiseAns('996546',this)"  class="a_dz addzan"><em ></em><i id="praise_996546">0</i></a> 
+                              <a href="javascript:void(0)" onclick="addAnswer(996546,this,5085815)" class="a_pl"><em></em>评论</a>
+                              <span  class="clear"></span> 
+                              </p> 
+                          </div>
+                          <div  class="clear"></div>
+                        </li>
+                                                <li>
+                          <div class="d_img"><a href="http://www.shejiben.com/yz/4958518/"  rel="nofollow"  target="_blank" class="d_img_a"><img width="50" height="50"  rel="nofollow" src="http://img.shejiben.com/headphoto/119.jpg"></a></div>
+                          <div class="d_content">
+                              <p class="p_01">
+                                  <a href="http://www.shejiben.com/yz/4958518/"  rel="nofollow"    target="_blank" class="a_name">没有昵称_0108</a>
+                                  <i>2015-12-04 16:34</i>
+                                  <span  class="clear"></span>
+                              </p>
+                              <p class="p_02">防火卷帘门是一种适用于建筑物较大洞口处的防火、隔热设施，产品在设计安装上起到了一定的作用技术。防火卷帘门广泛应用于工业与民用建筑的防火隔断区，能有效地阻止火势蔓延，保障生命财产安全，是现代建筑中不可缺少的防火设施。<br />
+卷帘门是以多关节活动的门片串联在一起，在固定的滑道内，以门上方卷轴为中心转动上下的门。卷帘门同墙的作用一样起到水平分隔，它由帘板、座板、导轨、支座、卷轴、箱体、控制箱、卷门机、限位器、门楣、手动速放开关装置、按钮开关和保险装置等13个部分组成，一般安装在不便采用墙分隔的部位。卷帘门适用于商业门面、车库、商场、医院、厂矿企业等公共场所或住宅。尤其是门洞较大，不便安装地面门体的地方起到方便、快捷开启作用。</p>
+                                                            <p class="p_03">
+                                 
+                             
+                              <a href="javascript:void(0)" onclick="praiseAns('996170',this)"  class="a_dz addzan"><em ></em><i id="praise_996170">0</i></a> 
+                              <a href="javascript:void(0)" onclick="addAnswer(996170,this,4958518)" class="a_pl"><em></em>评论</a>
+                              <span  class="clear"></span> 
+                              </p> 
+                          </div>
+                          <div  class="clear"></div>
+                        </li>
+                                                <li>
+                          <div class="d_img"><a href="http://www.shejiben.com/yz/4703265/"  rel="nofollow"  target="_blank" class="d_img_a"><img width="50" height="50"  rel="nofollow" src="http://pic.shejiben.com/user/65/headphoto_4703265.jpg?1442466431"></a></div>
+                          <div class="d_content">
+                              <p class="p_01">
+                                  <a href="http://www.shejiben.com/yz/4703265/"  rel="nofollow"    target="_blank" class="a_name">诺言_4391</a>
+                                  <i>2015-12-04 14:09</i>
+                                  <span  class="clear"></span>
+                              </p>
+                              <p class="p_02">防火卷帘的基本要求是防火功能，包括耐火完整性和耐火隔热性，在电气和配件上有专门的国标要求，比如说电机要防火电机，控制箱要按照GA386进行检测，并有3C认证，等等。普通卷帘门没有这么多要求，可以电动可以手动，目前还没有国标来规范它。北京费普福</p>
+                                                            <p class="p_03">
+                                 
+                             
+                              <a href="javascript:void(0)" onclick="praiseAns('995473',this)"  class="a_dz addzan"><em ></em><i id="praise_995473">0</i></a> 
+                              <a href="javascript:void(0)" onclick="addAnswer(995473,this,4703265)" class="a_pl"><em></em>评论</a>
+                              <span  class="clear"></span> 
+                              </p> 
+                          </div>
+                          <div  class="clear"></div>
+                        </li>
+                         
+                    </ul>
+                                      </div>
+                
+                                <div class="detail_left_bottom">
+                    <p class="detail_title">相关问题</p>
+                    <div class="answer_contents"> 
+                                              <ul class="answer_content ">
+                           <li class="answer_num">
+                               <span class="span_01">3</span>
+                               <span class="span_02">回答</span>
+                           </li>
+                           <li class="answer_con">
+                               <ul>
+                                <li class="question_li"><a  href="http://ask.shejiben.com/wenda/224705.html"  target="_blank">气雾式防火卷帘门和复合卷帘门有哪些区别</a></li>
+                                    
+                                                                                                             <li class="answer_li">我就是我d&nbsp;回答：卷帘门和卷闸门是同一种门，两者只是称呼不一样。如果你想做卷帘门，可以试试优泰卷帘门，产品选材精良，做工细腻、设计科学，更具有坚固耐用、美观新颖、安全可靠、性能 稳定、操作方便，开闭灵活、噪音微弱等主要优点。 卷帘门（卷闸门）的开启方式有两种： 1.手动卷帘。借助卷帘中心轴上的扭簧平衡力量，达到手动上下拉动卷帘开关。 2.电动卷帘。用专用电机带动卷帘中心轴转动，达到卷帘开关，当转动到电机设定的上下限位时自动停止。</li>
+                                                                                                            <li class="answer_label">
+                                                                                                                      <a href="http://ask.shejiben.com/tag/665"  target="_blank">暧气片</a>
+                                                                                <a href="http://ask.shejiben.com/tag/3477"  target="_blank">铜铝复合暖气片</a>
+                                                                                <a href="http://ask.shejiben.com/tag/4139"  target="_blank">复合实木地板</a>
+                                                                                                                                                                                                    <span class="answer_time">3个月前</span>
+                                                                               
+                                    </li>  
+                               </ul>
+                           </li>
+                                                 </ul>
+                                               <ul class="answer_content ">
+                           <li class="answer_num">
+                               <span class="span_01">3</span>
+                               <span class="span_02">回答</span>
+                           </li>
+                           <li class="answer_con">
+                               <ul>
+                                <li class="question_li"><a  href="http://ask.shejiben.com/wenda/233974.html"  target="_blank">普通防火卷帘门一般是什么材质的？</a></li>
+                                    
+                                                                                                             <li class="answer_li">xiaoping123&nbsp;回答：普通防火卷帘门的材质一般都是用钢质、复合、无机等。防火卷帘门同防火墙的作用一样起到水平防火分隔，它由帘板、座板、导轨、支座、卷轴、箱体、控制箱、卷门机、限位器，门楣、手动速放开关装置、按钮开关和保险装置等13个部分组成，一般安装在不便采用防火墙分隔的部位。如：敞开电梯厅、自动扶梯、百货大楼的宽大营业厅、展览楼的展览厅和建筑物中洞口较大不能用防火门窗的部位。防火卷帘门在建筑工程中，使防火分隔得到了广大的应用。</li>
+                                                                                                            <li class="answer_label">
+                                                                                                                      <a href="http://ask.shejiben.com/tag/3186"  rel="nofollow"  target="_blank">浴缸材质</a>
+                                                                                <a href="http://ask.shejiben.com/tag/3986"  rel="nofollow"  target="_blank">玻璃材质</a>
+                                                                                <a href="http://ask.shejiben.com/tag/4034"  rel="nofollow"  target="_blank">木地板材质</a>
+                                                                                                                                                                                                    <span class="answer_time">3个月前</span>
+                                                                               
+                                    </li>  
+                               </ul>
+                           </li>
+                                                 </ul>
+                                               <ul class="answer_content ">
+                           <li class="answer_num">
+                               <span class="span_01">5</span>
+                               <span class="span_02">回答</span>
+                           </li>
+                           <li class="answer_con">
+                               <ul>
+                                <li class="question_li"><a  href="http://ask.shejiben.com/wenda/249011.html"  target="_blank">防火门锁与普通门锁有什么区别？</a></li>
+                                    
+                                                                                                             <li class="answer_li">你好YEIIOW&nbsp;回答：简单的来说防火锁便于开启，以防紧急事件的发生，方便疏散，除此之外，其结构坚固，耐用，耐高温。相比而言其普通门不及与防火门。</li>
+                                                                                                            <li class="answer_label">
+                                                                                                                      <a href="http://ask.shejiben.com/tag/1156"  rel="nofollow"  target="_blank">门锁</a>
+                                                                                <a href="http://ask.shejiben.com/tag/3333"  rel="nofollow"  target="_blank">防盗门锁</a>
+                                                                                <a href="http://ask.shejiben.com/tag/3337"  rel="nofollow"  target="_blank">换防盗门锁</a>
+                                                                                                                                                                                                    <span class="answer_time">2个月前</span>
+                                                                               
+                                    </li>  
+                               </ul>
+                           </li>
+                                                 </ul>
+                                               <ul class="answer_content ">
+                           <li class="answer_num">
+                               <span class="span_01">3</span>
+                               <span class="span_02">回答</span>
+                           </li>
+                           <li class="answer_con">
+                               <ul>
+                                <li class="question_li"><a  href="http://ask.shejiben.com/wenda/304290.html"  target="_blank">防火卷帘门的安装与调试方法是什么？</a></li>
+                                    
+                                                                                                             <li class="answer_li">我就是我d&nbsp;回答：（1）防火卷帘门的构造。防火卷帘门由帘板、卷简体、导轨、电气传动等部分组成。帘板为1.5删厚的冷轧带钢轧制成“C”型板重叠联锁，具有刚度好，密封性能优的特点。亦可采用钢质“R型串联式组合结构。另配温感、烟感、光感报警系统，水幕喷淋系统，遇有火情自动报警，自动喷淋，门体自控下降，定点关闭，使受灾区域人员得以疏散。全系统防火综合性能显著。 防火卷帘门一般都安装在洞口墙体的局部后墙体的预埋铁件上。
+（2）防火卷帘门的安装与调试。防火卷帘门的安装与调试顺序如下： 1）按设计型号，查阅产品说明书和电气原理图。检查产品表面处理和零附件。量测产品各部位基本尺寸。检查门洞口是否与卷帘门尺寸相符；导轨、支架的预埋件位置、数量是否正确。 2）测量洞口标高，弹出两导轨垂线及卷筒中心线。 3）将垫板电焊在预埋铁板上，用螺丝固定卷筒的左右支架，安装卷筒。卷筒安装后应转动灵活。 4）安装减速器和传动系统。 5）安裳电气拴街系统。 6）空载试车。 7）将事先装配好的帘板安装在卷筒上。 8）安装导轨。按图纸规定位置，将两侧及上方导轨焊牢于墙体预埋件上，并焊成以体，各导轨应在同一垂直平面上。 9）安装水幕喷淋系统，并与总控制系统连接。 10）试车。先用手去试运行，再用电动机启闭数次，调整至无卡住、阻滞及异常噪音等现象为止。全部调试完毕，安装防护罩。 11）安装防护罩。卷筒上的护罩可做成方形，亦可做成半圆形。护罩的尺寸大小应与门的宽度和门条板卷起后的直径相适应，保证卷筒将门条板卷满后与护罩 仍保持一定的距离，不得相互碰撞，经检查无误后，再与护罩预埋件焊牢。 12）粉刷或镶砌导轨墙体装饰面层。</li>
+                                                                                                            <li class="answer_label">
+                                                                                                                      <a href="http://ask.shejiben.com/tag/550"  target="_blank">防火板</a>
+                                                                                <a href="http://ask.shejiben.com/tag/867"  target="_blank">防火门</a>
+                                                                                <a href="http://ask.shejiben.com/tag/1961"  target="_blank">防火乳胶漆</a>
+                                                                                                                                                                                                    <span class="answer_time">1个月前</span>
+                                                                               
+                                    </li>  
+                               </ul>
+                           </li>
+                                                 </ul>
+                                               <ul class="answer_content ">
+                           <li class="answer_num">
+                               <span class="span_01">3</span>
+                               <span class="span_02">回答</span>
+                           </li>
+                           <li class="answer_con">
+                               <ul>
+                                <li class="question_li"><a  href="http://ask.shejiben.com/wenda/367382.html"  target="_blank">防火卷帘门双轨与单轨的区别是什么</a></li>
+                                    
+                                                                                                             <li class="answer_li">我就是我d&nbsp;回答：单层为甲级钢制防火卷帘门，双层现在常用的是双轨双帘特级防火卷帘门 中间空隙为隔热层单轨：两半窗帘走同一轨道，只能相遇，不能相错过.双轨：两半窗帘各走各的轨道，优点可以重叠.隐私性好！</li>
+                                                                                                            <li class="answer_label">
+                                                                                                                      <a href="http://ask.shejiben.com/tag/550"  rel="nofollow"  target="_blank">防火板</a>
+                                                                                <a href="http://ask.shejiben.com/tag/867"  rel="nofollow"  target="_blank">防火门</a>
+                                                                                <a href="http://ask.shejiben.com/tag/1961"  rel="nofollow"  target="_blank">防火乳胶漆</a>
+                                                                                                                                                                                                    <span class="answer_time">4天以前</span>
+                                                                               
+                                    </li>  
+                               </ul>
+                           </li>
+                                                 </ul>
+                                            </div> 
+                </div>
+                            </div>
+        <!--右边-->
+            <div class="label_right detail_right">
+                <a href="http://ask.shejiben.com/k.php?act=ask" rel="nofollow" target="_blank" class="we_ask"><em></em><i>我要提问</i></a> 
+                <form action="#" id="askForm" name="askForm" method="post">
+                  <div class="input_form">
+                      <p class="tlt">
+                          申请定制设计</p>
+                      <p class="total">
+                          快速发布需求&nbsp;找到专属设计
+                      </p>
+                      <div class="box">
+                          <label class="default_value">
+                              您的称呼</label>
+                          <input class="input_txt" name="chenghu" id="sChenghu" type="text" />
+                          <label class="msg">
+                              <em></em>
+                              <p>
+                              </p>
+                          </label>
+                      </div>
+                      <div class="box">
+                          <label class="default_value">
+                              手机号码</label>
+                          <input class="input_txt" name="phone" id="sPhone" type="text" />
+                          <label class="msg">
+                              <em></em>
+                              <p>
+                              </p>
+                          </label>
+                      </div>
+                      <div class="box box_l">
+                          <select class="select_l" name="User_Shen" id="User_Shen" onChange="changeProvince('User_Shen','User_City','User_Town');"></select>
+                          <label class="msg"><em></em><p></p></label>
+                      </div> 
+                      <div class="box box_r">   
+                          <select class="select_r" name="User_City" id="User_City"></select>
+                          <label class="msg"><em></em><p></p></label>
+                          <input type="hidden" id="User_Town" name="User_Town" value=""/>
+                      </div>
+                      <div class="clear"></div>
+                      <div class="box">
+                          <input type="button" class="smbmit_btn" id="disBtn" name="subs" value="立即提交" />
+                      </div>
+                      <label id="erro_msg">
+                          <em></em>
+                          <p>
+                          </p>
+                      </label>
+                  </div>
+                </form>
+                <div class="clear"></div>
+                                <div class="dis_relelabel">
+                    <p class="p_new">相关标签</p>
+                    <div class="label_div">
+                                        <li><a href="http://ask.shejiben.com/tag/550"  target="_blank">防火板</a></li>
+                                        <li><a href="http://ask.shejiben.com/tag/867"  target="_blank">防火门</a></li>
+                                        <li><a href="http://ask.shejiben.com/tag/1961"  target="_blank">防火乳胶漆</a></li>
+                                        <li><a href="http://ask.shejiben.com/tag/3977"  target="_blank">防火玻璃</a></li>
+                                        <div class="clear"></div>
+                    </div>
+                </div>
+                                <div class="dis_expert">
+               <div class="expert_title">
+                   <p class="expert_p">专家推荐</p>
+                   <a class="expert_pop_a" href="javascript:void(0)" rel="nofollow" ><em></em><i>申请成为专家</i></a>
+               </div>
+
+               <div class="expert_area">
+                                                         <ul class="expert_ul">
+                       <li class="li_img">
+                          <a href="http://www.shejiben.com/sjs/2635806/"  target="_blank"><img src="http://pic.shejiben.com/user/6/sjb_headphoto_2635806.jpg?1448505021"></a>
+                       </li>
+                       <li class="li_title"><a href="http://www.shejiben.com/sjs/2635806/"  target="_blank">专家</a></li>
+                       <li class="li_name">
+                           <a href="http://www.shejiben.com/sjs/2635806/"  target="_blank">
+                               <span class="p_01">成都季意设计工作室</span>
+                               <span class="p_02">设计师</span>
+                           </a>
+                       </li>
+                       <li class="li_question"><a style="color: #fff;" href="http://ask.shejiben.com/k.php?act=ask" rel="nofollow" target="_blank">找TA提问</a></li>
+                       <div class="clear"></div>
+                   </ul>
+                                      <ul class="expert_ul">
+                       <li class="li_img">
+                          <a href="http://www.shejiben.com/sjs/1106937/"  target="_blank"><img src="http://pic.shejiben.com/user/37/sjb_headphoto_1106937.jpg?1426334873"></a>
+                       </li>
+                       <li class="li_title"><a href="http://www.shejiben.com/sjs/1106937/"  target="_blank">专家</a></li>
+                       <li class="li_name">
+                           <a href="http://www.shejiben.com/sjs/1106937/"  target="_blank">
+                               <span class="p_01">高迪愙设计陈圣亮</span>
+                               <span class="p_02">设计师</span>
+                           </a>
+                       </li>
+                       <li class="li_question"><a style="color: #fff;" href="http://ask.shejiben.com/k.php?act=ask" rel="nofollow" target="_blank">找TA提问</a></li>
+                       <div class="clear"></div>
+                   </ul>
+                                      <ul class="expert_ul">
+                       <li class="li_img">
+                          <a href="http://www.shejiben.com/sjs/4305457/"  target="_blank"><img src="http://pic.shejiben.com/user/57/sjb_headphoto_4305457.jpg?1440650596"></a>
+                       </li>
+                       <li class="li_title"><a href="http://www.shejiben.com/sjs/4305457/"  target="_blank">专家</a></li>
+                       <li class="li_name">
+                           <a href="http://www.shejiben.com/sjs/4305457/"  target="_blank">
+                               <span class="p_01">肖毅峰空间设计</span>
+                               <span class="p_02">设计师</span>
+                           </a>
+                       </li>
+                       <li class="li_question"><a style="color: #fff;" href="http://ask.shejiben.com/k.php?act=ask" rel="nofollow" target="_blank">找TA提问</a></li>
+                       <div class="clear"></div>
+                   </ul>
+                                      <ul class="expert_ul">
+                       <li class="li_img">
+                          <a href="http://www.shejiben.com/sjs/1241504/"  target="_blank"><img src="http://pic.shejiben.com/user/4/sjb_headphoto_1241504.jpg?1438625056"></a>
+                       </li>
+                       <li class="li_title"><a href="http://www.shejiben.com/sjs/1241504/"  target="_blank">专家</a></li>
+                       <li class="li_name">
+                           <a href="http://www.shejiben.com/sjs/1241504/"  target="_blank">
+                               <span class="p_01">黑桃K室内设计工作室</span>
+                               <span class="p_02">设计师</span>
+                           </a>
+                       </li>
+                       <li class="li_question"><a style="color: #fff;" href="http://ask.shejiben.com/k.php?act=ask" rel="nofollow" target="_blank">找TA提问</a></li>
+                       <div class="clear"></div>
+                   </ul>
+                                      <ul class="expert_ul">
+                       <li class="li_img">
+                          <a href="http://www.shejiben.com/sjs/1433617/"  target="_blank"><img src="http://pic.shejiben.com/user/17/sjb_headphoto_1433617.jpg?1430884275"></a>
+                       </li>
+                       <li class="li_title"><a href="http://www.shejiben.com/sjs/1433617/"  target="_blank">专家</a></li>
+                       <li class="li_name">
+                           <a href="http://www.shejiben.com/sjs/1433617/"  target="_blank">
+                               <span class="p_01">傅晓</span>
+                               <span class="p_02">设计师</span>
+                           </a>
+                       </li>
+                       <li class="li_question"><a style="color: #fff;" href="http://ask.shejiben.com/k.php?act=ask" rel="nofollow" target="_blank">找TA提问</a></li>
+                       <div class="clear"></div>
+                   </ul>
+                                                       
+               </div>
+
+               </div>
+
+                 <div class="clear"></div>
+              <!--精选问题-->
+                                 <div class="dis_ask" style="margin-top: 20px;">
+                     <div class="ask_title">
+                         <p>精选问题</p>
+                         <a href="http://ask.shejiben.com/zuijinhuoyue/"  target="_blank">更多&nbsp;></a>
+                     </div>
+                     <ul>
+                                                    <li>
+                              <a href="http://ask.shejiben.com/wenda/379533.html" target="_blank">
+                                  <span class="span_ask01">工厂厨房设计有什么要求？</span>
+                                  <span class="span_ask02"><em>3</em>个回答</span>
+                                  <span class="clear"></span>
+                              </a>
+                          </li>
+                                                    <li>
+                              <a href="http://ask.shejiben.com/wenda/378431.html" target="_blank">
+                                  <span class="span_ask01">装修水管多少钱一米？</span>
+                                  <span class="span_ask02"><em>3</em>个回答</span>
+                                  <span class="clear"></span>
+                              </a>
+                          </li>
+                                                    <li>
+                              <a href="http://ask.shejiben.com/wenda/375867.html" target="_blank">
+                                  <span class="span_ask01">室内设计防火规范都有哪些？</span>
+                                  <span class="span_ask02"><em>3</em>个回答</span>
+                                  <span class="clear"></span>
+                              </a>
+                          </li>
+                                                    <li>
+                              <a href="http://ask.shejiben.com/wenda/377321.html" target="_blank">
+                                  <span class="span_ask01">远红外地暖有哪些优点？</span>
+                                  <span class="span_ask02"><em>3</em>个回答</span>
+                                  <span class="clear"></span>
+                              </a>
+                          </li>
+                                                    <li>
+                              <a href="http://ask.shejiben.com/wenda/380858.html" target="_blank">
+                                  <span class="span_ask01">三洋洗衣机6058s报价如何？</span>
+                                  <span class="span_ask02"><em>3</em>个回答</span>
+                                  <span class="clear"></span>
+                              </a>
+                          </li>
+                                                    <li>
+                              <a href="http://ask.shejiben.com/wenda/379178.html" target="_blank">
+                                  <span class="span_ask01">墙纸一卷多少平方？</span>
+                                  <span class="span_ask02"><em>3</em>个回答</span>
+                                  <span class="clear"></span>
+                              </a>
+                          </li>
+                                                    <li>
+                              <a href="http://ask.shejiben.com/wenda/380060.html" target="_blank">
+                                  <span class="span_ask01">单相三孔插座与三相插座的区别是什么</span>
+                                  <span class="span_ask02"><em>3</em>个回答</span>
+                                  <span class="clear"></span>
+                              </a>
+                          </li>
+                                                    <li>
+                              <a href="http://ask.shejiben.com/wenda/379187.html" target="_blank">
+                                  <span class="span_ask01">一般结婚床上用品多少钱？</span>
+                                  <span class="span_ask02"><em>3</em>个回答</span>
+                                  <span class="clear"></span>
+                              </a>
+                          </li>
+                                                    <li>
+                              <a href="http://ask.shejiben.com/wenda/379165.html" target="_blank">
+                                  <span class="span_ask01">2015中国园林设计公司排名？</span>
+                                  <span class="span_ask02"><em>3</em>个回答</span>
+                                  <span class="clear"></span>
+                              </a>
+                          </li>
+                                                    <li>
+                              <a href="http://ask.shejiben.com/wenda/380092.html" target="_blank">
+                                  <span class="span_ask01">韩国大成壁挂炉怎么样？</span>
+                                  <span class="span_ask02"><em>3</em>个回答</span>
+                                  <span class="clear"></span>
+                              </a>
+                          </li>
+                                               </ul>
+                 </div>
+                            </div>
+        
+        </div>
+    </div>
+    <!--主体 结束-->
+<script src="http://www.shejiben.com/gb_js/jquery.colorbox.min.js" type="text/javascript"></script>
+<script src="http://www.shejiben.com/gb_js/module.js?20151008" type="text/javascript"></script>
+<script src="http://www.shejiben.com/gb_js/discussions.js?20151207" type="text/javascript"></script>
+<script src="http://www.shejiben.com/gb_js/GlobalProvinces.js" type="text/javascript"></script>
+<script src="http://www.shejiben.com/gb_js/zt/check_form.js?20151008" type="text/javascript"></script>
+<script type="text/javascript">
+    var gpm = new GlobalProvincesModule;
+    gpm.def_province = ["省/市", ""];
+    gpm.def_city1 = ["市/地区", ""];
+    gpm.def_city2 = ["县/市", ""];
+    gpm.initProvince(document.getElementById('User_Shen'));
+    gpm.initCity1(document.getElementById('User_City'), gpm.getSelValue(document.getElementById('User_Shen')));
+</script>
+<script type="text/javascript">
+  var head_photo = "" ? "" : ''; //评论头像
+  var qid = 367428 ? 367428 : 0; //问题id
+   
+  //添加评论回答                 
+  function addAnswer(id,obj,uid) {
+    //判断是否登录
+    if (!to8to_uid) {
+      document.domain = 'shejiben.com';
+      showSingleLogin(2,2);
+      return false;
+    }
+    //评论框
+    var _html = jq('<div class="div_pl" id="box_'+id+'"><div class="pl_write"><div class="d_img"><img src="'+head_photo+'"></div><div class="d_content d_content01"><form method="post" enctype="multipart/form-data" name="detailForm"><em></em><label class="label_txt">请输入评论内容...</label><textarea class="da_input input_name edit_answer" type="text" name="ask_answer"  autocomplete="off"></textarea><input type="hidden" value="2" name="type" /><input type="hidden" value="'+id+'" name="toid"  /><input type="hidden" value="'+qid+'" name="id" /><input class="d_smbmit  dis_submit" type="submit" value="发布评论"></form></div><div  class="clear"></div></div></div>');
+    jq(obj).parent().parent().append(_html);
+
+    jq(obj).attr('onclick',"closeAnswerBox("+id+",this)");
+  }
+  //点击关闭评论回答
+  function closeAnswerBox(id,obj) {
+    jq('#box_'+id).remove();
+    jq(obj).attr('onclick',"addAnswer("+id+",this)");
+  }
+  //点赞
+  function praiseAns (anid,obj){
+    var url = 'http://ask.shejiben.com/k.php?act=ask';
+    var data = {anid:anid,type:3};
+      jq.post(url,data,function(msg){       
+        if(msg){   
+          jq("#praise_"+anid).html(msg);
+        }else {
+          alert("您已经赞过该回答了！");
+        }      
+    });
+  }
+
+//点击图片上传
+jQuery('#del_up_file').hide();
+jQuery('#file').bind('change',function() {
+    var filename = jq(this).val();
+    var fn_arr = new Array();
+        fn_arr = filename.split('\\');
+        var new_fn = '';
+        for(var i = 0;i<fn_arr.length;i++){
+          new_fn = fn_arr[i] ;
+        }
+        if(new_fn.length > 10){
+          var file_index = new_fn.lastIndexOf('.');
+          var file_end = new_fn.length;
+          var file_suffix = new_fn.substring(file_index,file_end);
+          file_pr = new_fn.substr(0,5);
+          new_fn = file_pr+'...'+file_suffix;
+        }
+    jq("#file_name").html(new_fn);
+    jQuery('#del_up_file').show();
+    var fileType = filename.substr(filename.indexOf(".")+1).toUpperCase(); 
+    if(fileType!="BMP"&&fileType!="PNG"&&fileType!="GIF"&&fileType!="JPG"&&fileType!="JPEG"){
+       jQuery('#file_name').html('');
+       jQuery('#del_up_file').hide();
+       alert("图片限于bmp,png,gif,jpeg,jpg格式");
+     }
+});
+
+//点击图片删除
+jQuery("#del_up_file").live("click", function(){ 
+    jQuery("#file").val('');
+    jQuery("#file_name").html('');
+    jQuery('#del_up_file').hide();
+});
+
+//异步获取回答
+ var page = 2;
+ var id = 367428;
+ var pagenum = 7;
+  jQuery(".answer_more").click(function(){    
+    jQuery.ajax({
+        url: 'http://ask.shejiben.com/d.php?uid='+id,
+        data: {'page': page,'type': 'ask'},
+        dataType: 'json',
+        success: function(result) {
+            if (result) {
+                var html = '';
+                for (var i = 0; i < result.length; i++) {
+                  html += '<li>';
+                  html += '<div class="d_img"><img width="50" height="50" src="'+result[i]['head_photo']+'"></div>';
+                  html += '<div class="d_content">';
+                  html += '<p class="p_01">';
+                  html += '<a href="'+result[i]['url']+'" target="_blank" class="a_name">'+result[i]['nick']+'</a>';
+                  html += '<i>'+result[i]['createtime']+'</i>';
+                  html += '<span  class="clear"></span>';
+                  html += '</p>';
+                  html += '<p class="p_02">'+result[i]['content']+'</p>';
+
+                  if(result[i]['pic']){
+                   html += '<img alt="'+result[i]['pic']+'" width="80" height="80" src="'+result[i]['content']+'">';
+                  }
+
+                  html += '<p class="p_03">';
+                  if( result[i]['client'] ){
+                    html += '<a href="http://www.shejiben.com/app/" rel="nofollow" target="_blank" class="a_sjb a_sjb00">来自设计本'+result[i]['client']+'客户端</a>';
+                  }
+
+                  html +='<a href="javascript:void(0)" onclick="praiseAns('+result[i]['id']+',this)"  class="a_dz addzan"><em ></em><i id="praise_'+result[i]['id']+'">'+result[i]['praise_num']+'</i></a>';
+                  html += ' <a href="javascript:void(0)" onclick="addAnswer('+result[i]['id']+',this,'+result[i]['answer_uid']+')" class="a_pl"><em></em>评论</a><span  class="clear"></span>';
+                  html += '</p></div><div  class="clear"></div></li>';
+                }       
+             }
+                jQuery(".detail_left_mid ul li").last().after(html);
+                if (result !== null && page<pagenum ) {
+                    jq(".answer_more").html('载入更多');
+                    page = page + 1;
+                } else{
+                    jq(".answer_more").remove();
+                } 
+           }
+        });
+    });
+</script></div>
+</div>
+<p class="clear"></p>  
+<bgsound src="" autostart=true loop=2 id='bgmusic'>
+<div id='messagebox'></div>
+<script type="text/javascript">
+//短信提示使用(asilas添加) 
+var divTop,divLeft,divWidth,divHeight,docHeight,docWidth,objTimer,i = 0;
+//鼠标悬浮在用户头像或者名称上面时显示用户信息
+showUserInfo();
+</script>
+<div id="small_window"></div>
+<div class="none_f" id="goTop" style="display: block;">
+    <!-- <div class="app_d_link" id="app_d_link">
+        <span class="app_close" id="app_close"></span>
+        <a href="http://www.shejiben.com/app/" target="_blank" ></a>
+    </div> -->
+	<a href="javascript:void(0);" class="kflive800" lim_company="235802" lim_skill="3012"></a>
+    <a href="http://www.shejiben.com/my/ideabooks.php" rel="nofollow" target="_blank" class="my_collection" id="my_collection"></a>
+    <a href="http://www.shejiben.com/about/feedback.php" rel="nofollow" target="_blank" class="my_option"></a>
+    <!-- <a href="javascript:void(0);" class="two_code" onmouseover="if($('pop_code'))  $('pop_code').style.display='block'" onmouseout="if($('pop_code'))   $('pop_code').style.display='none'"></a> -->
+    <a href="javascript:void(0)" class="backTop" id="backTop" onclick="backToTop()" style="display:none;"></a>
+    <!--<a class="collect" onclick="return AddFavorite('http://www.shejiben.com')"></a>-->
+    <div class="pop_code" id="pop_code" style="display:none;"> <div class="code_con">  <span><img alt="加设计本为微信好友" width="173" height="173" src="http://img.shejiben.com/front_new/bg/collect_wx.gif"></span>  <b>加设计本为微信好友</b> </div></div>
+    <div class="pop_code new_active" id="new_active" style="border:1px solid #e5e3e4;display:none;">
+    	<table cellpadding="0" cellspacing="0">
+    		<tr>
+    			<td>
+    				<div class="chouJ"></div>
+    				<a class="chouJ_button" href="http://www.shejiben.com/my/lottery_draw.php" rel="nofollow">抽奖</a>
+    			</td>
+    			<td>
+    				<div class="chouJ v1"></div>
+    				<a class="chouJ_button" href="http://www.shejiben.com/my/" rel="nofollow">签到</a>
+    			</td>
+    		</tr>
+    		<tr>
+    			<td>
+    				<div class="chouJ v2"></div>
+    				<a class="chouJ_button" href="http://www.shejiben.com/my/gold_active.php" rel="nofollow">赚币</a>
+    			</td>
+    			<td>
+    				<div class="chouJ v3"></div>
+    				<a class="chouJ_button" href="javascript:;" onclick="return AddFavorite('http://www.shejiben.com')" rel="nofollow">收藏本站</a>
+    			</td>
+    		</tr>
+    	</table>
+    </div>
+    <!--
+	<a href="javascript:void(0)" class="backTop" id="backTop" onclick="scroll2top(0)" style="display:none;"></a>
+    <a href="javascript:void(0);" class="two_code" onmouseover="if($('pop_code'))  $('pop_code').style.display='block'" onmouseout="if($('pop_code'))   $('pop_code').style.display='none'">&nbsp;</a>
+    <a class="collect" onclick="return AddFavorite('http://www.shejiben.com')"></a>
+    <div class="pop_code" id="pop_code" style="display:none;"> <div class="code_con">  <span><img alt="加设计本为微信好友" src="http://img.shejiben.com/front_new/bg/collect_wx.gif" width="173" height="173" ></span>  <b>加设计本为微信好友</b> </div></div>-->
+</div>
+<!-- <div id="inputPriceDiv" style="display:none;">
+	<div id="filter"></div>
+	<div id="inputPrice">
+
+		<div class="inputForm" id="inputForm">
+			<div class="formTitle">温馨提示<a id="closeBox2" class="close2" href="javascript:;"></a></div>
+			<div class="formLine">
+				<p style="margin-bottom:15px;">请填写设计标准</p>
+				<p>
+					<span class="dw">元/M²</span>
+					<input type="text" id="min_price" name="min_price" placeholder="最低收费" /><span style="padding:0px 10px;color:#afacac;">——</span>
+					<input type="text" id="max_price" name="max_price" placeholder="最高收费" />
+				</p>
+				<p style="margin-top:15px;">将显示在新版页面中，更方便业主筛选，请认真填写</p>
+				<div class="submitBtn">
+					<p class="msg">*不填写设计收费标准，将默认为面议</p>
+					<a href="javascript:;" class="sbt">提交</a>
+					<p class="clear"></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div> -->
+<!-- 新版设计师中心上线弹框推送 -->
+<!--<div class="popup_mask_sjs" style="display:none;"></div>
+<div class="popup_wrap popup_newonline" style="display:none;">
+    <a class="btn_close" href="javascript:void(0)"></a>
+    <a class="btn_go" href="http://www.shejiben.com/my/"></a>
+</div>-->
+<div style="display: none" id="bd_statistics">
+<script type="text/javascript">
+var Ttime = 0;
+checkCookie();
+var cookie_price = getCookie('to8to_cookie_price_sjs');
+
+//区分个人中心：个人中心不用弹广告
+var sjs_url = window.location.href;
+var sjs_url_num = sjs_url.indexOf('?');
+if (sjs_url_num == -1 ) {
+    popup_sjs = sjs_url;
+}else{
+    popup_sjs = sjs_url.substr(0,sjs_url_num);
+}
+
+if ( typeof jQuery === 'function' && to8to_ind == 'sjs' && !cookie_price && popup_sjs.indexOf('http://www.shejiben.com/my') == -1 ) {
+
+//    popupNewOnline();
+	/*document.getElementById('inputForm').style.top = ((window.screen.height / 2) - 230) + 'px';
+	jQuery.post('http://www.shejiben.com/api/getRelativeInfo.php?writePrice=1', {a:1}, function(data, textStatus, xhr) {
+		if (data == 1) {
+			jQuery('#inputPriceDiv').show();
+			setCookie('to8to_cookie_price', 1, 90*3600*24);
+		}
+	});
+
+	jQuery('#closeBox2').bind('click', function() {
+		jQuery('#inputPriceDiv').hide();
+		setCookie('to8to_cookie_price', 1, 90*3600*24);
+	});
+
+	jQuery('.sbt').bind('click', function() {
+		var minPrice = jQuery('#min_price').val(),
+			maxPrice = jQuery('#max_price').val();
+		if (!/\d+/.test(minPrice) || !/\d+/.test(maxPrice) || maxPrice <= 0 || minPrice <= 0) {
+			alert('请填写完整相关资料');
+			return false;
+		}
+		jQuery.post('http://www.shejiben.com/api/getRelativeInfo.php?writePrice=1', {
+			submit:1,
+			min_price : minPrice,
+			max_price : maxPrice
+		}, function(data, textStatus, xhr) {
+			if (data == '1') {
+				alert('提交成功');
+				jQuery('#inputPriceDiv').hide();
+			} else {
+				alert('提交失败,请稍后再试');
+				jQuery('#inputPriceDiv').hide();
+			}
+		});
+	});*/
+
+}
+
+jQuery('.kflive800').bind('click', function(){
+    window.open('http://dzt.twos.net.cn/LR/Chatpre.aspx?id=DZT58706561&lng=cn', '_blank',"height=450,width=630");
+} )
+
+function AddFavorite(sURL, sTitle)
+{
+    addfavorite(sURL, sTitle);
+}
+
+$('make_jb').onmouseover = function(){
+	clearTimeout(Ttime);
+    $("new_active").style.display = '';	//光标经过
+}
+
+$('make_jb').onmouseout = function() {
+	Ttime = setTimeout(closeActive,100);
+};
+
+$('new_active').onmouseover = function() {
+	clearTimeout(Ttime);
+	$('new_active').onmouseout = function() {
+		Ttime = setTimeout(closeActive,100);
+	}
+}
+
+function closeActive() {
+	$("new_active").style.display = 'none';
+}
+
+</script>
+
+</div>
+	<p class="cl"></p>
+	<div id="sjb_footer_new">
+		<div class="sjb_footer_new">
+            <div class="footer-list">
+                <div class="lumps apps">
+                    <div class="qcode app_qcode"></div>
+                    <div class="app-download">
+                        <p class="app-title">手机设计本</p>
+                        <p>随时提问题，随意赏美图</p>
+                        <p class="download-btns">
+                            <a href="http://itunes.apple.com/us/app/id778324884" rel="nofollow" target="_blank" class="ios-download"></a>
+                            <a href="http://www.shejiben.com/app/shejiben.apk" rel="nofollow" target="_blank" class="android-download"></a>
+                        </p>
+                    </div>
+                    <p class="clear"></p>
+                </div>
+                <div class="lumps wechat">
+                    <div class="qcode wechat_qcode"></div>
+                    <div class="app-download">
+                        <p class="app-title">设计本官方微信</p>
+                        <p>扫描二维码，即可与本本亲密互动，还有更多美图等你来看！</p>
+                    </div>
+                    <p class="clear"></p>
+                </div>
+                <div class="lumps emails">
+                    <a href="http://www.shejiben.com/reg/success.php" rel="nofollow" target="_blank">
+                        <div class="qcode email_qcode"></div>
+                    </a>
+                    <a href="http://www.shejiben.com/reg/success.php" rel="nofollow" target="_blank">
+                        <div class="app-download">
+                            <p class="app-title">订阅邮件</p>
+                            <p>邮件订阅设计本每日推荐，不错过每一次的惊喜。</p>
+                        </div>
+                    </a>
+                    <p class="clear"></p>
+                </div>
+                <div class="lumps platforms">
+                    <div class="platform-list">
+                        <div class="sinawb">
+                            <span class="icons"></span>
+                            <p class="plat-name">新浪微博</p>
+                            <a href="http://weibo.com/to8tosjs" rel="nofollow" target="_blank">立即关注</a>
+                        </div>
+                        <div class="qqwb">
+                            <span class="icons"></span>
+                            <p class="plat-name">腾讯微博</p>
+                            <a href="http://t.qq.com/to8tosjs" rel="nofollow" target="_blank">立即关注</a>
+                        </div>
+                        <div class="qqzone">
+                            <span class="icons"></span>
+                            <p class="plat-name">QQ空间</p>
+                            <a href="http://user.qzone.qq.com/49672282" rel="nofollow" target="_blank">立即关注</a>
+                        </div>
+                    </div>
+                    <p class="clear"></p>
+                </div>
+                <p class="clear"></p>
+            </div>
+            <p class="clear"></p>
+            <div class="sjb-link">
+                <p class="our-links">
+                    <a href="http://www.shejiben.com/about/index.html" rel="nofollow" target="_blank">关于我们</a><span class="link-devide">|</span>
+                    <a href="http://www.shejiben.com/about/contact.html" rel="nofollow" target="_blank">联系我们</a><span class="link-devide">|</span>
+                    <a href="http://www.shejiben.com/about/feedback.php" rel="nofollow" target="_blank">意见建议</a><span class="link-devide">|</span>
+                    <a href="http://www.shejiben.com/about/helpcenter.html" rel="nofollow" target="_blank">帮助中心</a><span class="link-devide">|</span>
+                    <a href="http://www.shejiben.com/about/terms.html" rel="nofollow" target="_blank">使用条款</a>
+                </p>
+                <p class="statement">免责声明：本网站部分内容由用户自行上传，如权利人发现存在误传其作品情形，请及时与本站联系。</p>
+                <p class="sjs-icp">©2012 设计本-定制化装修设计服务平台, All
+                    Rights Reserved. (<a hidefocus="" href="http://www.miitbeian.gov.cn"
+                                         rel="nofollow">粤ICP备08125558号-2</a>)
+                </p>
+
+                <div class="auth-icons">
+                    <a href="http://szcert.ebs.org.cn/d6c3aa01-b00f-4d32-aef4-70ad63021bab" target="_blank" title="深圳市市场监督管理局企业主体身份公示" alt="深圳市市场监督管理局企业主体身份公示">
+                        <span class="gaj"></span>
+                    </a>
+                    <a href="http://210.76.65.188/newwebsite/index.htm" target="_blank">
+                        <span class="gad"></span>
+                    </a>
+                    <p class="clear"></p>
+                </div>
+            </div>
+
+		</div>
+		<p class="cl"></p>
+	</div>
+
+<div style="display:none;">
+    <script type="text/javascript">
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fff9f2264b4da35f5adbd4b34ccb9756b' type='text/javascript'%3E%3C/script%3E"));
+    </script>   
+</div>
+<script src="http://www.shejiben.com/count/3e5c2a19dc2ac1471a747.js?v=20151126" type="text/javascript"></script>
+<!-- 商务通默认跟踪代码: 开始-->
+<script type="text/javascript">
+    var _hmt = _hmt || [];
+    (function() {
+        var dzt = document.createElement("script");
+        dzt.src = "http://dzt.twos.net.cn/JS/LsJS.aspx?siteid=DZT58706561&amp;lng=cn";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(dzt, s);
+    })();
+</script>
+<!-- 商务通默认跟踪代码: 结束-->
+
+</body>
+</html>
